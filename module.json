@@ -25,7 +25,7 @@
   ],
   "library": true,
   "url": "https://github.com/fantasycalendar/FoundryVTT-Tagger",
-  "manifest": "https://github.com/Lethiall/tagger-v14/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethiall/tagger-v14/refs/heads/main/module.json",
   "download": "https://github.com/fantasycalendar/FoundryVTT-Tagger/releases/latest/download/module.zip",
   "readme": "https://github.com/fantasycalendar/FoundryVTT-Tagger/blob/master/README.md",
   "bugs": "https://github.com/fantasycalendar/FoundryVTT-Tagger/issues"
